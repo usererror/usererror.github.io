@@ -7,28 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2019 The Coalition of Atheists and Orthodox Catholics United Against Creeping Agnosticism. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2019 08:46:59 -0500</lastBuildDate>
     
 	<atom:link href="https://usererror.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello Friend</title>
-      <link>https://usererror.github.io/posts/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      <title>BetterTouchTool as Window Manager</title>
+      <link>https://usererror.github.io/posts/hyper-sanity/</link>
+      <pubDate>Tue, 05 Mar 2019 08:46:59 -0500</pubDate>
       
-      <guid>https://usererror.github.io/posts/hello/</guid>
-      <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip; But that&amp;rsquo;s a slippery slope. You&amp;rsquo;re only in my head. We have to remember that&amp;hellip; Shit. It&amp;rsquo;s actually happened. I&amp;rsquo;m talking to an imaginary person.
-— Mr. Robot S01E01
- </description>
+      <guid>https://usererror.github.io/posts/hyper-sanity/</guid>
+      <description>BetterTouchTool BetterTouchTool is a fantastic MacOS utility that can act as a window manager. It also lets you customize your trackpad and Touch Bar to an extreme degree. It is no longer a free application but does come with a 45-day free trial and a reasonable price tag.
+The easiest way to install BetterTouchTool is with Homebrew:
+brew cask install bettertouchtool  Configuration After opening BetterTouchTool, hit the Gestures/Triggers button (with the animal paw icon) and then select Keyboard from the toolbar.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://usererror.github.io/about/</link>
+      <link>https://usererror.github.io/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://usererror.github.io/about/</guid>
+      <guid>https://usererror.github.io/about/about/</guid>
       <description>usererror (yoo-zer er-er), noun - an error made by the human user of a complex system, usually a computer system, in interacting with it; implies a lack of computer savvy, asserting that problems arising when using a device are the fault of the user.</description>
     </item>
     
