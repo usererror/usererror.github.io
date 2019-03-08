@@ -13,11 +13,11 @@
     
     
     <item>
-      <title>BetterTouchTool as Window Manager</title>
-      <link>https://usererror.github.io/posts/hyper-sanity/</link>
+      <title>OSX Window Management with BetterTouchTool</title>
+      <link>https://usererror.github.io/posts/btt-wm/</link>
       <pubDate>Tue, 05 Mar 2019 08:46:59 -0500</pubDate>
       
-      <guid>https://usererror.github.io/posts/hyper-sanity/</guid>
+      <guid>https://usererror.github.io/posts/btt-wm/</guid>
       <description>BetterTouchTool BetterTouchTool is a fantastic MacOS utility that can act as a window manager. It also lets you customize your trackpad and Touch Bar to an extreme degree. It is no longer a free application but does come with a 45-day free trial and a reasonable price tag.
 The easiest way to install BetterTouchTool is with Homebrew:
 brew cask install bettertouchtool  Configuration After opening BetterTouchTool, hit the Gestures/Triggers button (with the animal paw icon) and then select Keyboard from the toolbar.</description>
